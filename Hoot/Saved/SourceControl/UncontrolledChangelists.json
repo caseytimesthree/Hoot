@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"H:/hoot/Hoot/Hoot/Content/Owl/BP_Owl.uasset",
+				"H:/hoot/Hoot/Hoot/Content/Owl/OwlSprites/Flipbook_Owl_Fly.uasset",
+				"H:/hoot/Hoot/Hoot/Content/Owl/OwlSprites/Flipbook_Owl_Fly_Grab.uasset",
 				"E:/Unreal/Hoot/Hoot/Content/PlaceholderSprites/HooTerrain1.uasset",
 				"E:/Unreal/Hoot/Hoot/Content/PlaceholderSprites/HooTerrain1_Sprite.uasset",
 				"E:/Unreal/Hoot/Hoot/Content/PlaceholderSprites/hootsprite_Sprite.uasset",
